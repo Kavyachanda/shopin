@@ -1,4 +1,4 @@
-###Config
+Config
 - ApplicationContextConfig.java :It is a configuration class which Contains datasource information and hibernate configuration.
 
 ###Controllers 
