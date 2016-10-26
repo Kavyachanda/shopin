@@ -112,7 +112,5 @@ public class Cart implements Serializable{
 	}
 	public String toCart(){
 		return "Cart [username= " + cardnumber + "]";
-	}
-
-	
+	}	
 }
